@@ -1,4 +1,4 @@
-## 👋 Hola! Soy Gastón García Bauer
+# 👋 Hola! Soy Gastón García Bauer
 
 🎓 Soy Técnico Universitario en Programación por la Universidad Tecnológica Nacional - Regional Haedo, Buenos Aires, Argentina.  
 💻 Entusiasta del desarrollo web, sobre todo del backend y los proyectos desafiantes.  
