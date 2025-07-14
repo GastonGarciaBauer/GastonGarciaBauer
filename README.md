@@ -20,13 +20,12 @@
 
 <p align="left">
   <a href="https://gastongarciabauer.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-GASTONGARCIABAUER-orange?style=for-the-badge&labelColor=black&color=4682B4" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-GASTONGARCIABAUER-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gaston-garcia-bauer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@GASTON-GARCIA-BAUER-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-@GASTONGARCIABAUER-blue?style=for-the-badge&labelColor=gray&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
----
 
 ## 📫 Contacto
 
