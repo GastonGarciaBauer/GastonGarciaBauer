@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="mailto:gaston.garcia.bauer89@gmail.com">
-    <img src="https://img.shields.io/badge/gaston.garcia.bauer89@gmail.com-EMAIL-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/gaston.garcia.bauer89@gmail.com-EMAIL-EA4335?style=for-the-badge&labelColor=grey&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
