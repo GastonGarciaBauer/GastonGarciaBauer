@@ -7,8 +7,6 @@
 💻 Entusiasta del desarrollo web, sobre todo del backend y los proyectos desafiantes.  
 🚀 Actualmente trabajando en un sistema de e-commerce para insumos de mascotas (proyecto final de la Tecnicatura), y desarrollando en paralelo una plataforma de gestión de restaurante por consola (venta de productos y emisión de facturas).
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=GastonGarciaBauer&theme=gruvbox&row=1&column=7)
-
 ## Mis pasiones
 
 🖥️ Codear
