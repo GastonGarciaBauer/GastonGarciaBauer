@@ -5,7 +5,7 @@
 
 🎓 Soy Técnico Universitario en Programación por la Universidad Tecnológica Nacional - Regional Haedo, Buenos Aires, Argentina.  
 💻 Entusiasta del desarrollo web, sobre todo del backend y los proyectos desafiantes.  
-🚀 Actualmente trabajando en un sistema de e-commerce para insumos de mascotas (proyecto final de la Tecnicatura), y desarrollando en paralelo una plataforma de gestión de restaurante por consola (venta de productos y emisión de facturas).
+🚀 Actualmente trabajando en un sistema tipo e-commerce de venta de insumos para mascotas integrado a un gestor de turnos para peluquería canina (proyecto final de la Tecnicatura), y desarrollando en paralelo una plataforma web de gestión bancaria utilizando tecnologías del stack ASP.Net Core.
 
 ## Mis pasiones
 
