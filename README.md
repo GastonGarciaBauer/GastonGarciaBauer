@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=F78484&background=000000&center=true&vCenter=true&height=70&width=700&lines=👋+Hola,+soy+Gastón;Desarrollador+de+Software+⚙️+🧠;Bienvenido+a+mi+perfil!+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=F78484&background=0d1117&center=true&vCenter=true&height=70&width=700&lines=👋+Hola,+soy+Gastón;Desarrollador+de+Software+⚙️+🧠;Bienvenido+a+mi+perfil!+⚡)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GastonGarciaBauer&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GastonGarciaBauer&langs_count=6&layout=compact&theme=dracula&hide=html,css,Shell)](https://github.com/anuraghazra/github-readme-stats)
